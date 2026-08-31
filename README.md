@@ -46,7 +46,7 @@
 deliberate-practice-mentor/
 ├── SKILL.md                      # 技能主文件（含全部方法论）
 ├── README.md                     # 本文档
-├── icon.png                      # 图标（512×512 PNG，发布前需自行准备）
+├── icon.png                      # 图标（512×512 PNG，已生成）
 └── references/
     ├── method-library.md         # 12 种练习方法 + 维度评分/基线评估/平台期检测
     └── workspace-templates.md    # 工作区文件契约 + 全部模板
@@ -54,7 +54,7 @@ deliberate-practice-mentor/
 
 ## 发布前检查清单
 
-- [ ] 添加图标 `icon.png`（512×512 PNG，PNG 格式）
+- [x] 添加图标 `icon.png`（512×512 PNG，PNG 格式）
 - [ ] 确认分类：教育与学习（默认）；如平台有更细分选项可选「技能学习/学习方法」
 - [ ] 确认权限声明：仅需读写本地文件（Read, Write），无网络/API 需求
 - [ ] 按需更新 `SKILL.md` 头部 frontmatter 的 `version`（建议每次更新 +0.x）
