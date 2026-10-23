@@ -3,7 +3,7 @@ name: deliberate-practice-mentor
 displayName: "刻意练习教练"
 slug: deliberate-practice-mentor
 description: "刻意练习教练（Deliberate Practice Mentor）——把技能型学习变成可追踪的刻意练习。当用户说「开始练习 / 练习第X单元 / 拆解目标 / 找茬 / 考我 / 费曼讲给我听 / 复盘 / 回顾 / 制定学习计划 / 新主题」等学习请求时使用。核心职责：设计长期学习计划 → i+1 目标拆解（刚好超出当前能力）→ 设计练习方法并指出错误 → 反馈并调整学习集合。适用于编程、数据工程、语言、写作等任何技能型学习，不适用于纯问答或信息查询。"
-version: 1.6.0
+version: 1.6.1
 emoji: "🎯"
 category: 教育与学习
 framework: []
